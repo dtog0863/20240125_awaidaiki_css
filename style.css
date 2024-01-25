@@ -1,0 +1,42 @@
+.ltd{
+    color: rgb(40, 40, 165);
+    font-size: 36px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.header__ul{
+    display: flex;
+}
+
+
+.header__nav-list{
+    padding: 15px;
+    color: rgb(40, 40, 165);
+    font-weight: bold;
+}
+
+.content__image{
+    display: flex;
+    width: 45%;
+    height: 45%;
+    margin: 100px 0 -140px auto;
+}
+
+.content__block{
+    margin-bottom: 30px;
+}
+
+.content__message{
+    font-size: 46px;
+}
+
+.content__box{
+    background:rgb(23, 23, 93);
+    width: 70%;
+    height: 200px;
+}
